@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-- 📫 How to reach me: me@tonybenoy.com
+- 📫 Reach me: [here](https://tonybenoy.com/)
+
 
 
 <!--
