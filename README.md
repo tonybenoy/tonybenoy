@@ -5,7 +5,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="http://arch.tonybenoy.com/counter.svg?" />
+  <img src="https://arch.tonybenoy.com/counter.svg?" />
 </p>
 
 
