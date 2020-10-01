@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 📫 Reach me: [here](https://tonybenoy.com/)
-- 🤔 Trying to embrace the enemy : Javascript
+- 🤔 Trying to embrace the enemy : Javascript/Typescript
 
 <p align="center"> 
   Visitor count<br>
