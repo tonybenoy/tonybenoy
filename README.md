@@ -4,10 +4,6 @@
 - 📫 Reach me: [here](https://tonybenoy.com/)
 - 🤔 Trying to embrace the enemy : Javascript/Typescript
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://arch.tonybenoy.com/counter.svg?" />
-</p>
 
 
 <!--
