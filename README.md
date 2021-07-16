@@ -2,6 +2,8 @@
 ### Hi there 👋
 
 - 📫 Reach me: [here](https://tonybenoy.com/)
+- 🐍 connoisseur
+- In love with 🦀 
 - 🤔 Trying to embrace the enemy : Javascript/Typescript
 - 🔭 Question I'm usually asked - Tu krta kya h!
 
