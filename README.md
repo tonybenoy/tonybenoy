@@ -6,7 +6,7 @@
 - In love with 🦀 .
 - 🤔 Trying to embrace the enemy : Javascript/Typescript.
 - 🔭 Question I'm usually asked - Tu krta kya h!
-- 🤦 An engineering doing an MBA.
+- 🤦 An engineer doing an MBA(Yes the stereotype).
 
 <!--
 **tonybenoy/tonybenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
